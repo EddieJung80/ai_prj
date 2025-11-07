@@ -1,0 +1,11 @@
+/.env
+/.venv
+/3_langchain_messages.py
+/3_langchain_structured_output.py
+/3_prompt_template_parser.py
+/chatbot3_littleprincess.py
+/chatbot3_little_webUI.py
+/prompt_template.py
+/test.py
+/zz_jupyter_test.ipynb
+/__pycache__
