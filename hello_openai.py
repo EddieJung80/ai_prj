@@ -37,3 +37,6 @@ if __name__ == "__main__":
         previous_response_id = result.id
 
         print("챗봇 :" + result.output_text + " /// Result id :" + result.id)
+
+
+print("modify on github")
