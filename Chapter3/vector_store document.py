@@ -61,6 +61,7 @@ for i, doc in enumerate(results, 1):
     print(f"   출처: {doc.metadata['source']}")
     print(f"   주제: {doc.metadata['topic']}")
 
+
 # ⑤ 유사도 점수와 함께 검색
 results_with_scores = vectorstore.similarity_search_with_score(query, k=2)
 print("\n\n유사도 점수:")
